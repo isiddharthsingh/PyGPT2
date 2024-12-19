@@ -14,7 +14,6 @@ This repository contains my implementation of GPT-2 from scratch, inspired by th
 6. [Example Outputs](#example-outputs)
 7. [Performance Benchmarks](#performance-benchmarks)
 8. [References](#references)
-9. [License](#license)
 
 ## Overview
 
